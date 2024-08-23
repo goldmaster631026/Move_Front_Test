@@ -45,6 +45,8 @@ const Login = () => {
             setEmailValidateMsg("");
         }
         // Password Validation
+        // Password Validation
+
         var lowerCase = /[a-z]/g;
         var upperCase = /[A-Z]/g;
         var numbers = /[0-9]/g;
