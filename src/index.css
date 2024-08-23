@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    background-color: #093545;
+}
+
+input {
+    background-color: #224957;
+    border-radius: 5px;
+    padding: 12px 20px;
+}
+input:focus {
+    outline: none;
+}
+
+.img-wrap{
+    position: relative;
+    width: 100%;
+    height: AUTO;
+    overflow: hidden;
+  }
