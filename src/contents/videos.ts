@@ -14,21 +14,21 @@ export const content = {
             image: video2,
             pubilshingDate: 2021
         },
-        {
-            title: "Video1",
-            image: video2,
-            pubilshingDate: 2021
-        },
-        {
-            title: "Video1",
-            image: video3,
-            pubilshingDate: 2021
-        },
-        {
-            title: "Video1",
-            image: video1,
-            pubilshingDate: 2021
-        },
+        // {
+        //     title: "Video1",
+        //     image: video2,
+        //     pubilshingDate: 2021
+        // },
+        // {
+        //     title: "Video1",
+        //     image: video3,
+        //     pubilshingDate: 2021
+        // },
+        // {
+        //     title: "Video1",
+        //     image: video1,
+        //     pubilshingDate: 2021
+        // },
         {
             title: "Video1",
             image: video2,
