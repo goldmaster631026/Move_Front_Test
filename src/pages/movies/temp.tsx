@@ -4,7 +4,7 @@
     //     reducers: {
     //       logIn(state, action) {
     //         state.user = action.payload;
-    //         state.isLoggedIn = true;
+    //         //state.isLoggedIn = true;
     //         localStorage.setItem("isLoggedIn", "true");
     //       },
     //       hasError(state, action) {
