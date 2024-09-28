@@ -2,7 +2,7 @@ import './App.css'
 import Routes from './routes'
 
 function App() {
-  console.log("renderd =======================>")
+  console.log("renderd =====================>")
   return (
     <>
       <Routes />
